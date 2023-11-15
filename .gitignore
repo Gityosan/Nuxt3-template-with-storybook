@@ -1,0 +1,16 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.yarn
+.env
+dist
+
+# vitest
+coverage
+
+auto-imports.d.ts
+components.d.ts
+package-lock.json
